@@ -1,0 +1,21 @@
+6.
+	-why not use word? works with plain text too
+	-launching from console is slower
+	-making directories, etc is faster in tc
+	-why diff? i´m here for git
+7. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	-good question, undelete things?
+15. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	-manual is more logical, auto is for not to forget
+	-btw why install git so early and then leave it alone?
+18.	Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	-another purpose
+20. -really, install now?
+21. -wtf? no ctrl-c/v in gitbash
+	-yeah got it, gitbash wiki is way too old...
+22. How can you use the commands git log and git diff to view the history of files?
+	-log: list of commits, diff: list of changes
+26. How might using version control make you more confident to make changes that could break something?
+	-you can undo, yay
+31. Now that you have your workspace set up, what do you want to try using Git for?
+	-did not set up, and to show off

@@ -1,0 +1,8 @@
+4. -solutions not updated with git...
+
+5. What happens when you initialize a repository? Why do you need to do it?
+    -git starts to work, why not?
+	-why lesson 2?
+
+8. How is the staging area different from the working directory and the repository? What value do you think it offers?
+	-gather multiple files for commit at once
