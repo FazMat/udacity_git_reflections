@@ -12,3 +12,13 @@
 
 16. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	-experimental or temporary versions of files, while others work on their versions and later merge everithing
+
+21. How do the diagrams help you visualize the branch structure?
+	-...
+
+26. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	-managed to screw up, game not loading
+	-yeah, merge conflict solved
+
+33. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	-manual is slow but solves conflicts
