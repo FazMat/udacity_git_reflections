@@ -1,2 +1,8 @@
 7. When would you want to use a remote repository rather than keeping all your work local?
     -right now? never. maybe when there is not much to do and i dont need the file(s) on my comp.
+
+10. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	-hmm, so maybe i forget..., you tell me
+
+14. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	-fork = steal, clone = take home, branch = make a different version
