@@ -6,3 +6,6 @@
 
 14. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	-fork = steal, clone = take home, branch = make a different version
+
+22. What is the benefit of having a copy of the last known state of the remote stored locally?
+	-keep the local file up to date
