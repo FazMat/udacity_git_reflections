@@ -12,3 +12,6 @@
 
 25. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	-email the changes for the one responsible for merging, less responsibility for the sender, more for the merger :)
+
+31. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	-trying something out, eg a new feature, another layout, whatever. Benefits: branch - no biggy when things do not work, master - changes are already implemented
